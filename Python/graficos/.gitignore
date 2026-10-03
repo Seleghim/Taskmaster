@@ -1,0 +1,20 @@
+# Ambiente virtual do Python
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Configurações locais
+.env
+
+# Arquivos do VS Code
+.vscode/
+
+# Banco de dados local
+*.mdf
+*.ldf
+
+# Arquivos temporários
+*.tmp
+*.log
